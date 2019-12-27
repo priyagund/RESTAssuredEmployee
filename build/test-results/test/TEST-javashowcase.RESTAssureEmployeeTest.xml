@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javashowcase.RESTAssureEmployeeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T12:08:21" hostname="admin142-desktop" time="7.381">
+  <properties/>
+  <testcase name="givenEmployee_OnDelete_ShouldReturnSuccessStatus" classname="javashowcase.RESTAssureEmployeeTest" time="7.381"/>
+  <system-out><![CDATA[AT END[
+  {
+    "id": 1,
+    "name": "priya",
+    "salary": "1000"
+  },
+  {
+    "id": 3,
+    "name": "khushi",
+    "salary": "10000"
+  },
+  {
+    "name": "Lisa",
+    "salary": "25000",
+    "id": 5
+  },
+  {
+    "name": "Priyanka",
+    "salary": "20000",
+    "id": 9
+  },
+  {
+    "name": "Priyanka",
+    "salary": "20000",
+    "id": 10
+  }
+]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
